@@ -1,0 +1,10 @@
+h1{
+    border: 3px solid darkcyan;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+p{
+    border-bottom: 3px solid darkorange;
+    border-top: 3px solid orange;
+    border-radius: 5px;
+}
